@@ -100,4 +100,3 @@ Some of the challenges we faced were:
 * We ran into google adding a paywall to place's data categories like: photos, website, phone number, open hours that would be important as a user to have. 
 
 * Email notification. The ability to send an email to the different travellers in your group notifying them to join the trip.
-
